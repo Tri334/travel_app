@@ -1,6 +1,7 @@
 # travel_app
 
-A new Flutter project.
+Readme:
+Please add your own GoogleService.json for firebase
 
 ## Getting Started
 
